@@ -22,7 +22,7 @@ var kill = function(){
     clearInterval(esBot.room.autodisableInterval);
     clearInterval(esBot.room.afkInterval);
     esBot.status = false;
-    console.log("FarofinhaBot morreu.");
+    console.log("TBRBOT morreu.");
 }
 
 var storeToStorage = function(){
