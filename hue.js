@@ -1014,7 +1014,7 @@ var esBot = {
             esBot.status = true;
             API.sendChat('/cap 1');
             API.setVolume(0);
-            API.sendChat('/me FarofinhaBot v1.1.21 ligado!');
+            API.sendChat('/me TBRbot v1.1.21 ligado!');
         },                        
         commands: {        
             executable: function(minRank, chat){
