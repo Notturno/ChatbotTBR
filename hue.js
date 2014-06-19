@@ -89,8 +89,8 @@ var esBot = {
         name: "TBRbot",
         creator: "Notturninho",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/motelbible/farofaBot/master/farofaBot.js",
-        cmdLink: "https://github.com/motelbible/farofaBot/blob/master/commands.md",
+        scriptLink: "https://github.com/Notturno/ChatbotTBR/blob/master/hue.js",
+        cmdLink: "https://github.com/Notturno/ChatbotTBR/blob/master/commands.md",
         roomSettings: {
             maximumAfk: 90,
             afkRemoval: true,                
