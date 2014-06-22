@@ -78,5 +78,5 @@ Usuários
 - !leave ---- ---- Sai da roleta
 - !link ---- ---- Mostra um comando para a música atual (se você for o DJ atual)
 - !rules ---- ---- Mostra as regras
-- !website ---- ---- Mostra o link da fanpage - Divas da Depressão
+
 
